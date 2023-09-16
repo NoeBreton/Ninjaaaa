@@ -74,13 +74,13 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # All Assets
-DynamicGrassLite/*
-HumanVocalization/*
-InfinityBladeEffects/*
-InfinityBladeWeapons/*
-Jejumokgwana/*
-KT_Props/*
-MSPressets/*
-NorwayMapple/*
-StarterContent/*
-ThirdPerson/*
+Content/DynamicGrassLite/*
+Content/HumanVocalization/*
+Content/InfinityBladeEffects/*
+Content/InfinityBladeWeapons/*
+Content/Jejumokgwana/*
+Content/KT_Props/*
+Content/MSPressets/*
+Content/NorwayMapple/*
+Content/StarterContent/*
+Content/ThirdPerson/*
