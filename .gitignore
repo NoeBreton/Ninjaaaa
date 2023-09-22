@@ -75,7 +75,7 @@ DerivedDataCache/*
 
 # All Assets
 Content/DynamicGrassLite/*
-Content/HumanVocalization/*
+Content/HumanVocalizations/*
 Content/InfinityBladeEffects/*
 Content/InfinityBladeWeapons/*
 Content/Jejumokgwana/*
@@ -84,3 +84,4 @@ Content/MSPresets/*
 Content/NorwayMaple/*
 Content/StarterContent/*
 Content/ThirdPerson/*
+Content/StylizedProvencal/*
